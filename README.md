@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ihimbru-K
-- 👀 I’m interested in OOP with python, C/c++
-- 🌱 I’m currently learning C/c++
-- 💞️ I’m looking to collaborate on embedded system software development
+- 👀 I’m interested in python, C and c++
+- 🌱 I’m currently learning Data structures and object oriented programming in Python, C and  c++
+- 💞️ I’m looking to collaborate on backend python development using Django and embedded system programming using C/C++
 - 📫 How to reach me kanihims25@gmail.com/+237682248238
 
 <!---
