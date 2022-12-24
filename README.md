@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ihimbru-K
-- 👀 I’m interested in python, C and c++
-- 🌱 I’m currently learning Data structures and object oriented programming in Python, C and  c++
-- 💞️ I’m looking to collaborate on backend python development using Django and system programming in C/C++
-- 📫 How to reach me kanihims25@gmail.com/+237682248238
+- 👀 I’m interested in back-end, mobile development and computer vision
+- 🌱 I’m currently learning Kotlin programming
+- 💞️ I’m looking to collaborate on any backend dev project with the use of Kotlin and Javascript technologies
+- 📫 How to reach me kanihims25@gmail.com or +237682248238
 
 <!---
 Ihimbru-K/Ihimbru-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
