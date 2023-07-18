@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java and Spring Boot**
 
-- 👯 I’m looking to collaborate on **on any flutter-based mobile app development project or REST API development with kotlin**
+- 👯 I’m looking to collaborate on **on mobile app development projects or REST API development with Java/kotlin**
 
 - 💬 Ask me about **widgets**
 
