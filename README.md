@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ihimbru Kanyimi</h1>
-<h3 align="center">A pragmatic mobile and web backend developer</h3>
+<h1 align="center">Hi 👋, I'm Ihimbru</h1>
+<h3 align="center">A mobile and backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihimbru-k&label=Profile%20views&color=0e75b6&style=flat" alt="ihimbru-k" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [a grocery store mobile application](https://github.com/Ihimbru-K/Grocery-Store-app)
 
-- 🌱 I’m currently learning **Flutter and Spring Boot**
+- 🌱 I’m currently learning **Java and Spring Boot**
 
 - 👯 I’m looking to collaborate on **on any flutter-based mobile app development project or REST API development with kotlin**
 
