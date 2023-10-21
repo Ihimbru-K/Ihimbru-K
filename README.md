@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [a grocery store mobile application](https://github.com/Ihimbru-K/Grocery-Store-app)
 
-- 🌱 I’m currently learning **Java and Spring Boot**
+- 🌱 I’m currently learning **SailsJs and Java/Spring Boot**
 
-- 👯 I’m looking to collaborate on **on mobile app development projects or API development with Java/kotlin**
+- 👯 I’m looking to collaborate on **on backend (API) with Nodejs(Expressjs,Sailsjs) or Java(Springboot) and flutter app projects**
 
 - 💬 Ask me about **widgets**
 
