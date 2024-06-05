@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ihimbru</h1>
-<h3 align="center">A mobile and backend developer</h3>
+<h3 align="center">Software Engineer with experience in building mobile, machine learning and backend applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihimbru-k&label=Profile%20views&color=0e75b6&style=flat" alt="ihimbru-k" /> </p>
 
@@ -9,11 +9,12 @@
 
 - 🔭 I’m currently working on [a grocery store mobile application](https://github.com/Ihimbru-K/Grocery-Store-app)
 
-- 🌱 I’m currently learning **SailsJs and Java/Spring Boot**
+- 🌱 I’m currently learning ** Advanced flutter concepts such as state management (Provider/Bloc/Getx) and platform channels, Advanced data structures with Java, backend development with Spring Boot, containerization with Docker**
 
-- 👯 I’m looking to collaborate on **on backend (API) with Nodejs(Expressjs,Sailsjs) or Java(Springboot) and flutter app projects**
+- 👯 I’m looking to collaborate on **on REST API development with Nodejs(Expressjs,Sailsjs), Java(Springboot) **
+- 👯 I’m looking to collaborate on Flutter-based mobile app projects and REST API development with Node.js (Express.js, Sails.js), and/or Java (Spring Boot).
 
-- 💬 Ask me about **widgets**
+- 💬 Ask me about **widget rebuilds and rendering jank**
 
 - 📫 How to reach me **kanihims25@gmail.com**
 
