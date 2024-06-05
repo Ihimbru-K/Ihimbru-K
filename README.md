@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [a grocery store mobile application](https://github.com/Ihimbru-K/Grocery-Store-app)
 
-- 🌱 I’m currently learning ** Advanced flutter concepts such as state management (Provider/Bloc/Getx) and platform channels, Advanced data structures with Java, backend development with Spring Boot, containerization with Docker**
+- 🌱 I’m currently learning **Advanced flutter concepts such as state management (Provider/Bloc/Getx) and platform channels, Advanced data structures with Java, backend development with Spring Boot, containerization with Docker**
 
-- 👯 I’m looking to collaborate on **on REST API development with Nodejs(Expressjs,Sailsjs), Java(Springboot) **
+- 👯 I’m looking to collaborate on **on REST API development with Nodejs(Expressjs,Sailsjs), Java(Springboot)**
 - 👯 I’m looking to collaborate on Flutter-based mobile app projects and REST API development with Node.js (Express.js, Sails.js), and/or Java (Spring Boot).
 
 - 💬 Ask me about **widget rebuilds and rendering jank**
