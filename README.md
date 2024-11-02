@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ihimbru</h1>
+<h1 align="center">Hi 👋, I'm Ihimbru 🙂</h1>
 <h3 align="center">Software Engineer with experience in building mobile, machine learning and backend applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihimbru-k&label=Profile%20views&color=0e75b6&style=flat" alt="ihimbru-k" /> </p>
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [a grocery store mobile application](https://github.com/Ihimbru-K/Grocery-Store-app)
+- 🔭 I’m currently exploring and integrating local and international payment methods
 
 - 🌱 I’m currently learning **Advanced flutter concepts such as state management (Provider/Bloc/Getx) and platform channels, Advanced data structures with Java, backend development with Spring Boot, and containerization with Docker**
 
