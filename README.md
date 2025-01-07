@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Flutter for mobile , Angular for Web, Node.js (Express.js, Sails.js), and/or Spring Boot for backend.**
 
-- 💬 Ask me about **widget rebuilds and rendering jank.**
+- 💬 Ask me about **widget rebuilds and rendering jank**
 
 - 📫 How to reach me **kanihims25@gmail.com**
 
