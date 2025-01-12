@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently exploring and integrating local and international payment methods
 
-- 🌱 I’m currently learning **Advanced flutter concepts such as state management (Provider/Bloc/Getx) and platform channels, Angular (Ts), Advanced data structures with Java, backend development with Spring Boot, and containerization with Docker.**
+- 🌱 I’m currently learning **Advanced flutter concepts such as state management (Provider/Bloc/Getx) and platform channels, Angular (Ts), backend development with Spring Boot, and containerization with Docker.**
 
 
 - 👯 I’m looking to collaborate on **Flutter for mobile , Angular for Web, Node.js (Express.js, Sails.js), and/or Spring Boot for backend.**
