@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **widget rebuilds and rendering jank.**
 
-- 📫 How to reach me **kanihims25@gmail.com**
+- 📫 How to reach me **kanihims25@gmail.com.**
 
 
 
