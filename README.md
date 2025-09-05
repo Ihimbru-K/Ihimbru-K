@@ -14,7 +14,7 @@
 
 ---
 
-- 🔭 I’m currently exploring and integrating **local and international payment methods**
+- 🔭 I’m currently exploring and integrating **local and international payment methods.**
 - 🌱 I’m learning **Advanced Flutter (Bloc,Platform Channels), and FastAPI (Python)**
 - 👯 I’m looking to collaborate on **Flutter and Angular (mobile & web), Firebase, Node.js, Spring Boot,   and FastAPI**
 - 💬 Ask me about **widget rebuilds and rendering jank.**
