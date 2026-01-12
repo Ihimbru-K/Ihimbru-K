@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
 
 # Ihimbru Kanyimi
@@ -16,28 +13,21 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
-Full-stack engineer. I turn ideas into products : mobile & web apps.
 
+Full-stack engineer. I turn ideas into products: mobile & web apps.
 
----
 ## 🤝 Collaboration
 
 I work on projects involving:
-
 - **Mobile Apps** — Flutter & cross-platform solutions  
 - **Web Platforms** — Angular & TypeScript  
 - **Backend Services** — APIs, microservices, payment integrations  
-- **Open Source** — Node.js, Spring Boot, FastAPI  
-
-
-
-
----
+- **Open Source** — Node.js, Spring Boot, FastAPI
 
 ## Technical Expertise
+
+<div align="center">
 
 ### Frontend Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -56,17 +46,16 @@ I work on projects involving:
 
 ### Cloud & DevOps
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
-### Database & Tools
+### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
----
+</div>
 
 ## 📊 GitHub Analytics
 
@@ -75,29 +64,16 @@ I work on projects involving:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihimbru-k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihimbru-k&layout=compact&langs_count=8&theme=tokyonight"/>
 
-</div>
-
-<div align="center">
-  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ihimbru-k&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ihimbru-k&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-
-
-
 ---
 
 <div align="center">
 
-### "First, solve the problem. Then, write the code." 
+*"First, solve the problem. Then, write the code."*
 
-
-
-</div> 
+</div>
