@@ -22,7 +22,7 @@
 Full-stack engineer. I turn ideas into products : mobile & web apps.
 
 
----
+
 ## 🤝 Collaboration
 
 I work on projects involving:
@@ -33,7 +33,7 @@ I work on projects involving:
 - **Open Source** — Node.js, Spring Boot, FastAPI  
 
 
----
+
 
 ---
 
