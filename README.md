@@ -19,12 +19,12 @@
 ---
 
 ## 👨‍💻 About Me
-Full-stack engineer. I turn ideas into products—mobile & web apps.
+Full-stack engineer. I turn ideas into products : mobile & web apps.
 
 
 ---
 
-## 🚀 What I'm Currently Working On
+## What I'm Currently Working On
 
 - 🔐 **Payment Systems Integration**  Implementing local and international payment gateways for seamless transactions
 - 📱 **Advanced Flutter Architecture**  Mastering Bloc pattern, platform channels, and native integrations
@@ -33,7 +33,7 @@ Full-stack engineer. I turn ideas into products—mobile & web apps.
 
 ---
 
-## 💼 Technical Expertise
+## Technical Expertise
 
 ### Frontend Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -102,7 +102,7 @@ I work on projects involving:
 
 <div align="center">
 
-### 💡 "First, solve the problem. Then, write the code." 
+### "First, solve the problem. Then, write the code." 
 
 
 
