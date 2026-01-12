@@ -1,4 +1,55 @@
-<div align="center">
+# Ihimbru Kanyimi
+
+Full-stack developer working with Flutter, Angular, and backend stuff. Based in Cameroon.
+
+## Currently
+
+- Integrating payment systems (local & international gateways)
+- Deep diving into Flutter architecture - Bloc, platform channels
+- Learning FastAPI
+
+## Tech Stack
+
+**Mobile & Frontend**
+- Flutter/Dart
+- Angular/TypeScript
+- HTML/CSS
+
+**Backend**
+- Node.js
+- Spring Boot
+- FastAPI/Python
+
+**Other**
+- Firebase
+- Git
+- PostgreSQL, MongoDB
+
+## Projects I'm Into
+
+Looking to work on projects involving Flutter, Angular, Firebase, Node.js, Spring Boot, or FastAPI. If you're building something interesting, let's talk.
+
+## Contact
+
+- Email: kanihims25@gmail.com
+- [LinkedIn](https://linkedin.com/in/ihimbru-kanyimi)
+- [HackerRank](https://www.hackerrank.com/ihimbrukanyimi)
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ihimbru-k&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ihimbru-k&theme=dark" alt="GitHub Streak" />
+</p>
+
+
+
+
+
+<!-- <div align="center">
 
 # Ihimbru Kanyimi
 
@@ -121,4 +172,4 @@ I'm actively seeking opportunities to collaborate on:
 
 ⭐️ From [ihimbru-k](https://github.com/ihimbru-k) | Made with ❤️ and lots of ☕
 
-</div>
+</div> -->
