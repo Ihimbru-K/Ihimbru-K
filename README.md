@@ -1,55 +1,7 @@
-# Ihimbru Kanyimi
-
-Full-stack developer working with Flutter, Angular, and backend stuff. Based in Cameroon.
-
-## Currently
-
-- Integrating payment systems (local & international gateways)
-- Deep diving into Flutter architecture - Bloc, platform channels
-- Learning FastAPI
-
-## Tech Stack
-
-**Mobile & Frontend**
-- Flutter/Dart
-- Angular/TypeScript
-- HTML/CSS
-
-**Backend**
-- Node.js
-- Spring Boot
-- FastAPI/Python
-
-**Other**
-- Firebase
-- Git
-- PostgreSQL, MongoDB
-
-## Projects I'm Into
-
-Looking to work on projects involving Flutter, Angular, Firebase, Node.js, Spring Boot, or FastAPI. If you're building something interesting, let's talk.
-
-## Contact
-
-- Email: kanihims25@gmail.com
-- [LinkedIn](https://linkedin.com/in/ihimbru-kanyimi)
-- [HackerRank](https://www.hackerrank.com/ihimbrukanyimi)
-
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ihimbru-k&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ihimbru-k&theme=dark" alt="GitHub Streak" />
-</p>
 
 
 
-
-
-<!-- <div align="center">
+<div align="center">
 
 # Ihimbru Kanyimi
 
@@ -57,6 +9,7 @@ Looking to work on projects involving Flutter, Angular, Firebase, Node.js, Sprin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihimbru-kanyimi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanihims25@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/ihimbru.kanyimi)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ihimbrukanyimi)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ihimbru-k&label=Profile%20Views&color=0e75b6&style=flat)
@@ -67,16 +20,8 @@ Looking to work on projects involving Flutter, Angular, Firebase, Node.js, Sprin
 
 ## 👨‍💻 About Me
 
-Full-stack engineer with 4+ years of experience building scalable mobile and web applications. Specialized in cross-platform development with Flutter, modern web frameworks, and enterprise backend solutions. Passionate about creating seamless user experiences and robust, maintainable systems.
+Full-stack engineer building scalable mobile & web apps with Flutter, modern web frameworks, and robust backends.
 
-```typescript
-const ihimbru = {
-    location: "Building the future, one commit at a time",
-    currentFocus: "Payment integration & fintech solutions",
-    expertise: ["Mobile Development", "Web Applications", "Backend Architecture"],
-    lifePhilosophy: "Clean code is not written by following rules. It's written by caring."
-};
-```
 
 ---
 
@@ -141,35 +86,25 @@ const ihimbru = {
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Collaboration
 
-I'm actively seeking opportunities to collaborate on:
+I work on projects involving:
 
-- **Mobile Applications** — Flutter, cross-platform solutions, native integrations
-- **Web Platforms** — Angular, TypeScript, progressive web apps
-- **Backend Services** — RESTful APIs, microservices, Firebase integrations
-- **Open Source Projects** — Node.js, Spring Boot, FastAPI ecosystems
+- **Mobile Apps** — Flutter & cross-platform solutions  
+- **Web Platforms** — Angular & TypeScript  
+- **Backend Services** — APIs, microservices, payment integrations  
+- **Open Source** — Node.js, Spring Boot, FastAPI  
+
 
 ---
 
-## 📫 Get In Touch
-
-<div align="center">
-
-**Building something interesting? Let's connect!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ihimbru-kanyimi)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanihims25@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/ihimbru.kanyimi)
-
-</div>
 
 ---
 
 <div align="center">
 
-### 💡 "First, solve the problem. Then, write the code." — John Johnson
+### 💡 "First, solve the problem. Then, write the code." 
 
-⭐️ From [ihimbru-k](https://github.com/ihimbru-k) | Made with ❤️ and lots of ☕
 
-</div> -->
+
+</div> 
