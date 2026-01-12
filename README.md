@@ -20,10 +20,10 @@ Full-stack engineer. I turn ideas into products: mobile & web apps.
 ## 🤝 Collaboration
 
 I work on projects involving:
-- **Mobile Apps** — Flutter & cross-platform solutions  
-- **Web Platforms** — Angular & TypeScript  
-- **Backend Services** — APIs, microservices, payment integrations  
-- **Open Source** — Node.js, Spring Boot, FastAPI
+- **Mobile Apps** Flutter & cross-platform solutions 
+- **Web Platforms** Angular & TypeScript  
+- **Backend Services** APIs, microservices, payment integrations  
+- **Open Source**  Node.js, Spring Boot, FastAPI
 
 ## Technical Expertise
 
