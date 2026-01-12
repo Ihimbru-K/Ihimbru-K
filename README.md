@@ -27,8 +27,6 @@ I work on projects involving:
 
 ## Technical Expertise
 
-<div align="center">
-
 ### Frontend Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -54,21 +52,6 @@ I work on projects involving:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihimbru-k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihimbru-k&layout=compact&langs_count=8&theme=tokyonight"/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ihimbru-k&theme=tokyonight)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ihimbru-k&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
