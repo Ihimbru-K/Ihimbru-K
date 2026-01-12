@@ -19,18 +19,17 @@
 ---
 
 ## 👨‍💻 About Me
-
-Full-stack engineer building scalable mobile & web apps with Flutter, modern web frameworks, and robust backends.
+Full-stack engineer. I turn ideas into products—mobile & web apps.
 
 
 ---
 
 ## 🚀 What I'm Currently Working On
 
-- 🔐 **Payment Systems Integration** — Implementing local and international payment gateways for seamless transactions
-- 📱 **Advanced Flutter Architecture** — Mastering Bloc pattern, platform channels, and native integrations
-- ⚡ **High-Performance APIs** — Building scalable backend services with FastAPI and Python
-- 🎯 **Open Source Contributions** — Always looking to collaborate on impactful projects
+- 🔐 **Payment Systems Integration**  Implementing local and international payment gateways for seamless transactions
+- 📱 **Advanced Flutter Architecture**  Mastering Bloc pattern, platform channels, and native integrations
+- ⚡ **High-Performance APIs**  Building scalable backend services with FastAPI and Python
+- 🎯 **Open Source Contributions**  Always looking to collaborate on impactful projects
 
 ---
 
