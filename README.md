@@ -2,15 +2,15 @@
   
 # Ihimbru Kanyimi
 
-**Software Engineer & Systems Architect**
+**Software Engineer** · **Systems Architect**
 
-*Designing and building scalable systems from concept to production*
+*Conceiving and implementing scalable systems from design to deployment*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihimbru-kanyimi)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kanihims25@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ihimbrukanyimi)
 
-![](https://komarev.com/ghpvc/?username=ihimbru-k&color=1a1a1a&style=flat)
+![](https://komarev.com/ghpvc/?username=ihimbru-k&color=2f3136&style=flat)
 
 </div>
 
@@ -18,45 +18,34 @@
 
 ## Overview
 
-Software engineer with 4+ years architecting and implementing full-stack solutions. Specialized in translating business requirements into scalable technical systems—from initial system design through deployment and optimization.
+Software engineer with 4+ years conceiving, architecting, and implementing production systems. I translate complex requirements into scalable technical solutions—from initial system design and database modeling through API development and deployment.
 
-**Core Competencies:** System Architecture · API Design · Cross-Platform Development · Payment Systems Integration · Database Modeling
+**Core:** System Architecture · Database Design (PostgreSQL) · API Development · Cross-Platform Apps · Payment Infrastructure
 
 ```typescript
-const expertise = {
-    systemsDesign: {
-        approach: "Problem decomposition → Architecture → Implementation",
-        patterns: ["Microservices", "Event-Driven", "CQRS", "API Gateway"],
-        focus: ["Scalability", "Maintainability", "Performance"]
-    },
-    endToEnd: [
-        "Requirements Analysis",
-        "System Architecture & Design",
-        "Database Schema Design",
-        "API Development & Documentation",
-        "Frontend/Mobile Implementation",
-        "DevOps & Deployment"
-    ],
-    currentWork: "Payment infrastructure & fintech solutions"
+const approach = {
+    conception: "Requirements → System design → Technical specifications",
+    architecture: ["API design", "Database modeling", "Microservices", "Event-driven systems"],
+    implementation: ["Mobile (Flutter)", "Web (Angular)", "Backend (Node.js, Spring, FastAPI)"],
+    infrastructure: ["PostgreSQL", "Firebase", "Docker", "Cloud deployment"]
 };
 ```
 
-## Systems Design & Architecture
+## Systems Design & Implementation
 
-From whiteboard to production—experienced in designing systems that scale.
+End-to-end ownership from whiteboard to production. Experienced in designing systems that balance scalability, maintainability, and delivery timelines.
 
-**Design Process**
-- Requirements gathering and constraint identification
-- High-level architecture and component design  
-- Database schema modeling and optimization
-- API contract design and versioning strategy
-- Cross-cutting concerns: auth, caching, monitoring
+**Design & Build**
+- System architecture: component design, service boundaries, communication patterns
+- Database design: schema modeling, indexing strategies, query optimization (PostgreSQL)
+- API design: RESTful patterns, versioning, documentation
+- Implementation: clean code, testing, CI/CD, monitoring
 
 **Current Focus**  
-Payment infrastructure design · Advanced Flutter state management (BLoC) · Async Python & FastAPI · Distributed systems patterns
+Payment system architecture · Advanced Flutter (BLoC, platform channels) · FastAPI async patterns · Distributed systems
 
-**Open to Collaboration**  
-Complex full-stack projects requiring thoughtful architecture and clean implementation.
+**Collaboration**  
+Open to complex projects requiring thoughtful system design and robust implementation.
 
 ---
 
@@ -102,20 +91,20 @@ Complex full-stack projects requiring thoughtful architecture and clean implemen
 
 ---
 
-## Engineering Approach
+## Engineering Philosophy
 
-**Conception to Deployment**  
-Experienced in the full lifecycle—from requirements analysis and system architecture through implementation, testing, and production deployment. Comfortable working independently or leading technical initiatives.
+**Conception to Production**  
+I conceive solutions by understanding the problem space, design systems that balance technical and business constraints, and implement them with attention to code quality and operational excellence.
 
-**Architecture Philosophy**  
-Design for clarity and maintainability first. Optimize for performance when metrics demand it. Every architectural decision should have a clear rationale tied to business or technical constraints.
+**Technical Approach**  
+Start with clarity—clear requirements lead to clear architecture. Design for the present, architect for the future. Every technical decision maps back to measurable outcomes.
 
-**Notable Work**
-- Architected and implemented multi-tenant SaaS applications serving 1000+ concurrent users
-- Designed payment processing systems integrating multiple international and local gateways
-- Built cross-platform mobile applications deployed to production app stores
-- Implemented event-driven microservices with message queues and async processing
-- Database design and optimization for high-throughput transactional systems
+**Selected Work**
+- Conceived and built multi-tenant SaaS platforms (1000+ concurrent users)
+- Designed payment processing architecture integrating multiple gateway providers
+- Implemented cross-platform mobile applications (Flutter) in production app stores
+- Built event-driven microservices with PostgreSQL, message queues, and async processing
+- Database design and optimization for high-throughput transactional workloads
 
 ---
 
@@ -135,5 +124,5 @@ Open to discussing system architecture, technical collaboration, or engineering 
 ---
 
 <div align="center">
-  <sub>Built with intention · Designed for scale · Maintained with care</sub>
+  <sub>Designed with intention · Built for scale · Shipped with confidence</sub>
 </div>
