@@ -23,11 +23,6 @@ Full-stack engineer. I turn ideas into products : mobile & web apps.
 
 
 ---
-
-## What I'm Currently Working On
-
----
-
 ## 🤝 Collaboration
 
 I work on projects involving:
