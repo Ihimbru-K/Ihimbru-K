@@ -1,4 +1,59 @@
 <div align="center">
+
+# Ihimbru Kanyimi
+
+**Full-Stack Engineer** • 4+ Years Experience
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihimbru-kanyimi)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kanihims25@gmail.com)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ihimbrukanyimi)
+
+![](https://komarev.com/ghpvc/?username=ihimbru-k&color=blue&style=flat)
+
+</div>
+
+## About
+
+Building production systems across mobile, web, and backend. Specializing in payment integration, system architecture, and cross-platform development.
+
+**Current:** Integrating local & international payment gateways  
+**Learning:** Advanced Flutter (BLoC, Platform Channels), FastAPI
+
+## Stack
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+## Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ihimbru-k&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihimbru-k&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ihimbru-k&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9"/>
+
+</div>
+
+## Contact
+
+Open to collaboration on Flutter, Angular, Node.js, Spring Boot, and FastAPI projects.
+
+**Email:** kanihims25@gmail.com
+
+
+
+<!-- <div align="center">
   
 # 👨‍💻 Ihimbru Kanyimi
 
@@ -109,4 +164,4 @@ I'm always interested in collaborating on innovative projects or discussing tech
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+</div> -->
