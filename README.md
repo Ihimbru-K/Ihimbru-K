@@ -23,7 +23,7 @@ I work on projects involving:
 - **Mobile Apps** Flutter & cross-platform solutions 
 - **Web Platforms** Angular & TypeScript  
 - **Backend Services** APIs, microservices, payment integrations  
-- **Open Source**  Node.js, Spring Boot, FastAPI
+- **Open Source**  FastAPI,  Spring Boot, Node.js.
 
 ## Technical Expertise
 
