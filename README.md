@@ -1,6 +1,66 @@
 <div align="center">
 
 # Ihimbru Kanyimi
+
+`Full-Stack Engineer` · `Mobile & Web` · `Douala, CM`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihimbru-kanyimi)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kanihims25@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ihimbrukanyimi)
+![Profile Views](https://komarev.com/ghpvc/?username=ihimbru-k&style=flat-square&color=0e75b6&label=views)
+
+</div>
+
+---
+
+```
+stack:  Flutter · Angular · FastAPI · Spring Boot · Node.js
+infra:  Docker · Firebase · PostgreSQL · MongoDB
+focus:  mobile-first · API design · scalable architecture
+```
+
+---
+
+## Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ihimbru-k&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&title_color=0e75b6&icon_color=0e75b6&rank_icon=github&hide_title=true" height="160"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com/?user=ihimbru-k&hide_border=true&theme=default&stroke=0e75b6&ring=0e75b6&fire=DD0031&currStreakLabel=0e75b6&hide_title=true" height="160"/>
+
+</div>
+
+<div align="center">
+
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=ihimbru-k&theme=minimal&hide_border=true&area=true&color=0e75b6&line=0e75b6&point=DD0031&hide_title=true)](https://github.com/ihimbru-k)
+
+</div>
+
+---
+
+<div align="center">
+<sub>solve the problem first. then write the code.</sub>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <div align="center">
+
+# Ihimbru Kanyimi
 ### Full-Stack Engineer | Mobile & Web Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihimbru-kanyimi)
@@ -80,4 +140,4 @@ I work on projects involving:
 
 *"First, solve the problem. Then, write the code."*
 
-</div> 
+</div>  -->
