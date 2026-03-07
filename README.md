@@ -1,24 +1,17 @@
 <div align="center">
-
 # Ihimbru Kanyimi
-
 ### Full-Stack Engineer | Mobile & Web Specialist
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihimbru-kanyimi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanihims25@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/ihimbru.kanyimi)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ihimbrukanyimi)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ihimbru-k&label=Profile%20Views&color=0e75b6&style=flat)
-
 </div>
 
 ## 👨‍💻 About Me
-
 Full-stack engineer. I turn ideas into products: mobile & web apps.
 
 ## 🤝 Collaboration
-
 I work on projects involving:
 - **Mobile Apps** Flutter & cross-platform solutions 
 - **Web Platforms** Angular & TypeScript  
@@ -52,6 +45,37 @@ I work on projects involving:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<!-- Core stats: commits, PRs, issues, streak -->
+<img src="https://github-readme-stats.vercel.app/api?username=ihimbru-k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ihimbru-k&theme=tokyonight" height="180"/>
+
+<!-- Language breakdown -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihimbru-k&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" height="180"/>
+
+</div>
+
+### 🏆 Achievements
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ihimbru-k&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true)
+
+</div>
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ihimbru-k&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ihimbru-k)
+
+</div>
 
 ---
 
