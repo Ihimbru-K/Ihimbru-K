@@ -1,58 +1,6 @@
 <div align="center">
 
 # Ihimbru Kanyimi
-
-`Full-Stack Engineer` &nbsp;·&nbsp; `Mobile & Web` &nbsp;·&nbsp; `Cameroon`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihimbru-kanyimi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kanihims25@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ihimbrukanyimi)
-![Profile Views](https://komarev.com/ghpvc/?username=ihimbru-k&label=views&color=0e75b6&style=flat-square)
-
-</div>
-
----
-
-```
-Flutter · Angular · FastAPI · Spring Boot · Node.js · PostgreSQL · Docker
-```
-
-Full-stack engineer. I ship mobile and web products end-to-end — from architecture to deployment.
-
----
-
-### Stack
-
-| Layer | Tech |
-|-------|------|
-| **Mobile / Frontend** | Flutter · Dart · Angular · TypeScript · HTML · CSS |
-| **Backend** | FastAPI · Spring Boot · Node.js · Python · Java |
-| **Data** | PostgreSQL · MongoDB · Firestore |
-| **Infra** | Docker · Firebase · Git |
-
----
-
-### Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ihimbru-k&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&title_color=0e75b6&icon_color=0e75b6&rank_icon=github" height="160"/>
-&nbsp;
-<img src="https://streak-stats.demolab.com/?user=ihimbru-k&hide_border=true&theme=default&stroke=0e75b6&ring=0e75b6&fire=DD0031&currStreakLabel=0e75b6" height="160"/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ihimbru-k&theme=minimal&hide_border=true&area=true&color=0e75b6&line=0e75b6&point=DD0031)](https://github.com/ihimbru-k)
-
-</div>
-
----
-
-<div align="center">
-<sub><i>"First, solve the problem. Then, write the code."</i></sub>
-</div>
-
-<!-- <div align="center">
-
-# Ihimbru Kanyimi
 ### Full-Stack Engineer | Mobile & Web Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihimbru-kanyimi)
@@ -132,4 +80,4 @@ I work on projects involving:
 
 *"First, solve the problem. Then, write the code."*
 
-</div> -->
+</div> 
