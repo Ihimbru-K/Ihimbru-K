@@ -64,17 +64,6 @@ I work on projects involving:
 
 <br/>
 
-### 🗂️ Language Breakdown
-
-<div align="center">
-
-<!-- Compact language card — shows % distribution as a visual bar -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihimbru-k&layout=donut&hide_border=true&theme=default&langs_count=8&count_private=true&title_color=0e75b6" height="220"/>
-
-</div>
-
-> **Stack at a glance:** `Dart` · `TypeScript` for client-side products &nbsp;|&nbsp; `Python` · `Java` for backend services &nbsp;|&nbsp; `JavaScript` for integrations
-
 <br/>
 
 ### 📈 Contribution Activity
