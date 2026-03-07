@@ -1,11 +1,14 @@
 <div align="center">
+
 # Ihimbru Kanyimi
 ### Full-Stack Engineer | Mobile & Web Specialist
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihimbru-kanyimi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanihims25@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/ihimbru.kanyimi)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ihimbrukanyimi)
 ![Profile Views](https://komarev.com/ghpvc/?username=ihimbru-k&label=Profile%20Views&color=0e75b6&style=flat)
+
 </div>
 
 ## 👨‍💻 About Me
@@ -13,10 +16,10 @@ Full-stack engineer. I turn ideas into products: mobile & web apps.
 
 ## 🤝 Collaboration
 I work on projects involving:
-- **Mobile Apps** Flutter & cross-platform solutions 
-- **Web Platforms** Angular & TypeScript  
-- **Backend Services** APIs, microservices, payment integrations  
-- **Open Source**  FastAPI,  Spring Boot, Node.js.
+- **Mobile Apps** Flutter & cross-platform solutions
+- **Web Platforms** Angular & TypeScript
+- **Backend Services** APIs, microservices, payment integrations
+- **Open Source** FastAPI, Spring Boot, Node.js.
 
 ## Technical Expertise
 
@@ -48,32 +51,37 @@ I work on projects involving:
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Developer Metrics
 
 <div align="center">
 
-<!-- Core stats: commits, PRs, issues, streak -->
-<img src="https://github-readme-stats.vercel.app/api?username=ihimbru-k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ihimbru-k&theme=tokyonight" height="180"/>
-
-<!-- Language breakdown -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihimbru-k&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" height="180"/>
+<!-- Row 1: Overall stats + Streak side by side -->
+<img src="https://github-readme-stats.vercel.app/api?username=ihimbru-k&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&title_color=0e75b6&icon_color=0e75b6&rank_icon=github" height="175"/>
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=ihimbru-k&hide_border=true&theme=default&stroke=0e75b6&ring=0e75b6&fire=DD0031&currStreakLabel=0e75b6" height="175"/>
 
 </div>
 
-### 🏆 Achievements
+<br/>
+
+### 🗂️ Language Breakdown
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ihimbru-k&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true)
+<!-- Compact language card — shows % distribution as a visual bar -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihimbru-k&layout=compact&hide_border=true&theme=default&langs_count=8&count_private=true&title_color=0e75b6&card_width=600" height="160"/>
 
 </div>
 
-### 📈 Contribution Graph
+> **Stack at a glance:** `Dart` · `TypeScript` for client-side products &nbsp;|&nbsp; `Python` · `Java` for backend services &nbsp;|&nbsp; `JavaScript` for integrations
+
+<br/>
+
+### 📈 Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ihimbru-k&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ihimbru-k)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ihimbru-k&theme=minimal&hide_border=true&area=true&color=0e75b6&line=0e75b6&point=DD0031)](https://github.com/ihimbru-k)
 
 </div>
 
