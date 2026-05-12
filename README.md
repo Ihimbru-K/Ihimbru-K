@@ -1,14 +1,21 @@
 <div align="center">
 
+```
+╔══════════════════════════════════════════════════════════╗
+║  Building software for real-world constraints,           ║
+║  not ideal conditions.                                   ║
+╚══════════════════════════════════════════════════════════╝
+```
+
 # Ihimbru Kanyimi
-### Full-Stack Engineer • Mobile-First Systems • Backend Architecture
 
-Building scalable software products across fintech, biometrics, telemedicine, and property management with a focus on real-world infrastructure constraints and user-centered design.
+**Full-Stack Engineer · Mobile-First Systems · Emerging Market Infrastructure**
 
-<br/>
+Bamenda, Cameroon — where load shedding is real, bandwidth is a luxury,  
+and users still need software that works.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihimbru-kanyimi-46a973227)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kanihims25@gmail.com)
+[![Email](https://img.shields.io/badge/kanihims25@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kanihims25@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ihimbru-K)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ihimbrukanyimi)
 
@@ -16,146 +23,137 @@ Building scalable software products across fintech, biometrics, telemedicine, an
 
 ---
 
-# 👨‍💻 About Me
+## Who I Am
 
-Full-stack engineer focused on building scalable mobile and backend systems that solve real operational problems.
+I'm a Computer Engineer building production systems for markets that most engineers design around — not for.
 
-I specialize in:
-- Mobile-first platforms with Flutter
-- Backend APIs and microservices with FastAPI & Spring Boot
-- Authentication and secure system design
-- Payment integrations and real-time communication
-- Systems designed for unstable or low-bandwidth network environments
+No stable internet. No AWS data centers nearby. Users on 3G who can't retry a failed request. Landlords who don't trust apps. Doctors serving patients who've never used telemedicine. That's my normal.
 
-I enjoy transforming complex ideas into reliable products with clean architecture, practical UX, and scalable infrastructure.
+My work sits at the intersection of **mobile-first architecture**, **constrained infrastructure**, and **real operational problems**: property management for Cameroonian landlords, telemedicine for sub-Saharan clinics, biometric exam systems for universities, and church reporting platforms for distributed organizations. These aren't demos. They're deployed or in active use.
+
+I run a small tech startup. I care deeply about system design, clean APIs, and shipping things that actually hold up.
 
 ---
 
-# 🚀 Featured Projects
+## Projects
 
-## Authentikate
-Biometric exam attendance system designed for universities.
+### 🏥 SheyDoc — Telemedicine for Low-Bandwidth Africa
+> *Flutter · FastAPI · Firebase · Stream Video SDK · Appwrite*
 
-**Tech Stack:** Flutter, FastAPI, PostgreSQL, Firebase, JWT
+A doctor-patient telemedicine platform built for environments where video calls drop, reconnections are frequent, and users can't afford to restart a consultation.
 
-### Key Features
-- Fingerprint-based student verification
-- Real-time exam attendance tracking
-- Department and session management
-- Secure admin authentication
-- Reporting and attendance analytics
-- Mobile-first workflow for institutional environments
+**The hard engineering problems:**
+- Adaptive video quality caps for 3G/unstable networks with live reconnecting banners
+- Join-window enforcement logic so appointments don't bleed into each other
+- Voice notes + reply-to tagging in chat, with FCM foreground listener reliability fixes
+- Doctor vs. patient role separation inside shared video call screens
+- Appwrite + Firebase dual-backend without coupling either to the core domain
 
-### Engineering Focus
-- Secure backend architecture
-- Role-based access control
-- Optimized workflows for university operations
-- Scalable REST API design
+**What makes it real:** designed for Cameroon-specific network conditions, not ideal conditions.
 
-🔗 **Repository:**  
-[Authentikate Backend](https://github.com/Ihimbru-K)
+🔗 [GitHub Profile](https://github.com/Ihimbru-K)
 
 ---
 
-## Propti
-Tenant and rent management platform focused on student housing and landlords.
+### ⛪ CellTrack — Church Cell Group Reporting Platform
+> *FastAPI · PostgreSQL (Neon.tech) · SQLAlchemy Async ORM · JWT · Flutter*
 
-**Tech Stack:** Flutter, FastAPI, PostgreSQL, Firebase
+Built for BLW Cameroon Zone B — a multi-level distributed church organization covering regions, zones, fellowships, senior cells, and individual cells — with hundreds of reporting units.
 
-### Key Features
-- Property and room management
-- Tenant onboarding and assignment
-- Rent cycle tracking
-- Partial and overdue payment handling
-- PDF receipt generation
-- Payment history and reporting
+**The hard engineering problems:**
+- Hierarchical data model with circular FK dependencies, resolved cleanly
+- Full async SQLAlchemy ORM with asyncpg SSL-compatible connection strings on Neon
+- Pydantic V2 migration and enum mismatch resolution across the model layer
+- Swagger JWT injection for development auth without breaking production flow
+- Seed script covering the full BLW Zone B org hierarchy — production-ready from day one
 
-### Engineering Focus
-- Multi-tenant backend architecture
-- Financial workflow management
-- Scalable relational database design
-- Mobile-first operational tools
-
-🔗 **Repository:**  
-[Propti Backend](https://github.com/Propti-app/Propti_backend)
+**What makes it real:** live client, real organizational hierarchy, no mocked data.
 
 ---
 
-## SheyDoc
-Telemedicine platform optimized for low-bandwidth environments.
+### 🏠 Propti (TRMS) — Tenant & Rent Management for Cameroonian Landlords
+> *Flutter · FastAPI · PostgreSQL · Firebase*
 
-**Tech Stack:** Flutter, FastAPI, Firebase, Stream Video SDK, Appwrite
+Property management built for a market that runs on trust, WhatsApp, and cash. Not for SaaS-native users.
 
-### Key Features
-- Video and audio consultations
-- Medical file and media sharing
-- Authentication and secure communication
-- Adaptive communication strategies for unstable networks
+**The hard engineering problems:**
+- In-app tenancy agreement generation with lawyer-drafted templates and digital signature capture
+- PDF generation shareable directly over WhatsApp (how landlords actually operate)
+- Partial payment tracking, overdue cycle management, and rent receipt generation
+- Freemium monetization with per-agreement fees — matching how local landlords think about value
+- Multi-tenant backend architecture handling multiple properties per landlord
 
-### Engineering Focus
-- Real-time communication systems
-- Network-aware optimization
-- Media handling and cloud storage
-- Performance-focused mobile experience
+**What makes it real:** built for Bamenda landlord psychology, not a generic CRUD rental app.
 
-🔗 **Repository:**  
-[GitHub Profile](https://github.com/Ihimbru-K)
+🔗 [Propti Backend](https://github.com/Propti-app/Propti_backend)
 
 ---
 
-# 🛠 Technical Stack
+### 🎓 Authentikate — Biometric Exam Attendance for Universities
+> *Flutter · FastAPI · PostgreSQL · Firebase · JWT*
 
-## Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+Exam impersonation (known locally as "ghost writing") is a systemic problem in Cameroonian state universities. Authentikate uses fingerprint verification to tie a student's identity to their exam session — no hardware readers required beyond a mobile device.
 
-## Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+**The hard engineering problems:**
+- Fingerprint-based identity verification in a mobile-first, offline-tolerant flow
+- Role-based access control across student, invigilator, and admin tiers
+- Session and department management at institutional scale
+- Attendance reporting with audit trails that satisfy administrative requirements
 
-## Cloud & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**What makes it real:** addresses an actual institutional failure mode, not a manufactured use case.
+
+🔗 [Repository](https://github.com/Ihimbru-K)
 
 ---
 
-# 🧠 Engineering Interests
+## Technical Stack
 
-- Scalable backend systems
-- Mobile-first architecture
-- Real-time systems
-- Authentication and security
-- Fintech infrastructure
-- Health-tech platforms
-- Property management systems
-- Biometrics and identity systems
-- API architecture and integration
-- Emerging-market infrastructure challenges
+```
+Languages      Python · Dart · TypeScript · Java
+Mobile         Flutter (primary — production apps shipped)
+Backend        FastAPI · Spring Boot · Node.js
+Databases      PostgreSQL · Firebase Firestore
+ORM/Query      SQLAlchemy (async) · asyncpg
+Auth           JWT · Firebase Auth · Appwrite Auth
+Real-time      Stream Video SDK · FCM · WebSockets
+Cloud          Render · Neon.tech · Firebase · Appwrite
+DevOps         Docker · Git · GitHub Actions
+Other          Pydantic V2 · REST API design · PDF generation
+```
+
+**Strongest in:** FastAPI + PostgreSQL backend systems · Flutter mobile · API architecture · systems that survive bad networks
 
 ---
 
-# 📊 GitHub Metrics
+## Engineering Philosophy
+
+> **KISS first. Complexity is a cost, not a feature.**
+
+I've debugged circular FK dependencies at midnight. I've chased asyncpg SSL errors across three deployment environments. I've shipped features to users who told me the old version was fine and they'd rather not update.
+
+Real software has edges. My job is to find them before users do, build around the actual constraints (not the assumed ones), and ship things that hold up when conditions aren't ideal — which in my context, is always.
+
+---
+
+## Currently
+
+- 🔨 Shipping SheyDoc to doctors and patients across Cameroon
+- 📐 Hardening Propti's tenancy agreement and monetization flow
+- 🌱 Building a startup internship pipeline from NAHPI Computer Engineering
+- 📖 Reading: whatever helps me think more clearly about systems and people
+
+---
+
+## Open To
+
+Freelance contracts · Technical consulting · Remote engineering roles · Collaborations on health-tech, fintech, or civic infrastructure in emerging markets
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ihimbru-k&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=0e75b6&icon_color=0e75b6" height="170"/>
-
-<img src="https://streak-stats.demolab.com/?user=ihimbru-k&hide_border=true&theme=default&stroke=0e75b6&ring=0e75b6&currStreakLabel=0e75b6" height="170"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ihimbru-k&theme=minimal&hide_border=true&area=true&color=0e75b6&line=0e75b6&point=DD0031)](https://github.com/Ihimbru-K)
+<img src="https://github-readme-stats.vercel.app/api?username=ihimbru-k&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=0e75b6&icon_color=0e75b6" height="160"/>
+<img src="https://streak-stats.demolab.com/?user=ihimbru-k&hide_border=true&theme=default&stroke=0e75b6&ring=0e75b6&currStreakLabel=0e75b6" height="160"/>
 
 </div>
 
@@ -163,6 +161,6 @@ Telemedicine platform optimized for low-bandwidth environments.
 
 <div align="center">
 
-### Building software for real-world constraints, not ideal conditions.
+*Bamenda, Cameroon · Open to remote · Building for the world that exists, not the one in the docs*
 
 </div>
