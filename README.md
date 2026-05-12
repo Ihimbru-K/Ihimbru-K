@@ -7,7 +7,7 @@
 <div align="center">
 
 ```
-I don't just write code — I build things that solve problems people actually have.
+I build things that solve problems people actually have.
 Pixel-sharp mobile frontends. Backends that scale. Idea to deployment, start to finish.
 ```
 
@@ -27,7 +27,7 @@ Pixel-sharp mobile frontends. Backends that scale. Idea to deployment, start to 
 
 ### what i build
 
-> Full-stack, mobile-first. I architect systems end-to-end — Flutter frontends, FastAPI/Spring Boot backends, database design, cloud deployment. I own the whole thing, not just a layer.
+> Full-stack, mobile-first. I architect systems end-to-end : Flutter frontends, FastAPI/Spring Boot backends, database design, cloud deployment. I own the whole thing, not just a layer.
 
 ---
 
@@ -47,9 +47,9 @@ Pixel-sharp mobile frontends. Backends that scale. Idea to deployment, start to 
 
 | | project | what i built | impact |
 |---|---|---|---|
-| 🟢 | **[Authentikate](https://github.com/Ihimbru-K/Authentikate_shipping_frontend)** `live pilot` | Designed and built a biometric exam attendance system from scratch — fingerprint auth, real-time tracking, role-based admin, REST API, full deployment | Pilot live at University of Bamenda · ~30k students at full institutional approval |
-| 🔵 | **[SheyDoc](https://github.com/Sheydocc/sheydoc_backend)** `in dev` | Architected a telemedicine platform for sub-Saharan Africa — video consults, FCM notifications, medical records, optimized for low-bandwidth conditions | Targeting Cameroon's 4M+ patients with no reliable access to mental healthcare |
-| 🔵 | **[Propti](https://github.com/Propti-app/Propti_backend/tree/main)** `in dev` | Built a rent & tenant management system end-to-end — payment tracking, digital tenancy agreements, PDF generation, in-app signing | Digitizing a property market that still runs on handshakes and WhatsApp voice notes |
+| 🟢 | **[Authentikate](https://github.com/Ihimbru-K/Authentikate_shipping_frontend)** `live pilot` | Designed and built a biometric exam attendance system from scratch  fingerprint authenication with ZK-Teco Live 20R scanner, real-time tracking, role-based admin, REST API, full deployment | Pilot live at University of Bamenda · ~30k students at full institutional approval |
+| 🔵 | **[SheyDoc](https://github.com/Sheydocc/sheydoc_backend)** `in dev` | Architected a mental health telemedicine platform for sub-Saharan Africa  video consults, FCM notifications, medical records, optimized for low-bandwidth conditions | Targeting Cameroon's 4M+ patients with no reliable access to mental healthcare |
+| 🔵 | **[Propti](https://github.com/Propti-app/Propti_backend/tree/main)** `in dev` | Built a rent & tenant management system end-to-end : payment tracking, digital tenancy agreements, PDF generation, in-app signing | Digitizing a property market that still runs on handshakes and WhatsApp voice notes |
 
 ---
 
