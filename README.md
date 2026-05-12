@@ -8,7 +8,7 @@
 
 ```
 I don't just write code — I build things that solve problems people actually have.
-Mobile-first frontends that feel native. Backends that scale. shipped from Cameroon.
+Pixel-sharp mobile frontends. Backends that scale. Idea to deployment, start to finish.
 ```
 
 </div>
@@ -27,7 +27,7 @@ Mobile-first frontends that feel native. Backends that scale. shipped from Camer
 
 ### what i build
 
-> Mobile-first products — pixel-sharp frontends on Flutter, paired with fast and reliable FastAPI/Spring Boot backends. I work across the full stack but lead with the interface, because that's where users live.
+> Full-stack, mobile-first. I architect systems end-to-end — Flutter frontends, FastAPI/Spring Boot backends, database design, cloud deployment. I own the whole thing, not just a layer.
 
 ---
 
@@ -45,11 +45,11 @@ Mobile-first frontends that feel native. Backends that scale. shipped from Camer
 
 ### shipped & building
 
-| | project | what it solves | impact |
+| | project | what i built | impact |
 |---|---|---|---|
-| 🟢 | **[Authentikate](#)** `live pilot` | biometric exam attendance — ends impersonation in universities | ~30k students at full approval · UBa pilot running |
-| 🔵 | **[SheyDoc](#)** `in dev` | telemedicine for low-bandwidth Africa — consults, records, FCM | targeting 4M+ underserved mental health patients in Cameroon |
-| 🔵 | **[Propti](#)** `in dev` | rent & tenant management for landlords still using notebooks and WhatsApp | digitizing the Bamenda property market from the ground up |
+| 🟢 | **[Authentikate](#)** `live pilot` | Designed and built a biometric exam attendance system from scratch — fingerprint auth, real-time tracking, role-based admin, REST API, full deployment | Pilot live at University of Bamenda · ~30k students at full institutional approval |
+| 🔵 | **[SheyDoc](#)** `in dev` | Architected a telemedicine platform for sub-Saharan Africa — video consults, FCM notifications, medical records, optimized for low-bandwidth conditions | Targeting Cameroon's 4M+ patients with no reliable access to mental healthcare |
+| 🔵 | **[Propti](#)** `in dev` | Built a rent & tenant management system end-to-end — payment tracking, digital tenancy agreements, PDF generation, in-app signing | Digitizing a property market that still runs on handshakes and WhatsApp voice notes |
 
 ---
 
@@ -66,9 +66,9 @@ infra      →   Docker · Render · Neon · JWT · Stream SDK
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ihimbru-k&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7B77F5&icon_color=7B77F5" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ihimbru-K&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7B77F5&icon_color=7B77F5" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihimbru-k&layout=compact&theme=tokyonight&hide_border=true&title_color=7B77F5" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihimbru-K&layout=compact&theme=tokyonight&hide_border=true&title_color=7B77F5" height="165"/>
 
 </div>
 
