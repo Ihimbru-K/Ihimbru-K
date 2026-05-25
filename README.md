@@ -64,9 +64,9 @@ Offline-first biometric attendance system designed for exam-hall environments wi
 
 ---
 
-### SheyDoc — Telemedicine Infrastructure for Low-Connectivity Regions
+### SheyDoc : Telemedicine Infrastructure for Low-Connectivity Regions
 
-**Status:** In development — targeting underserved healthcare access in Cameroon
+**Status:** In development targeting underserved healthcare access in Cameroon
 
 **System overview:**
 Lightweight telemedicine platform built for unstable connectivity environments. Flutter client supports offline medical records and deferred synchronization. Backend coordinates consultations and notification delivery via FastAPI, with Firebase/Appwrite handling media under bandwidth constraints. FCM is primary notification channel with SMS fallback where connectivity is unreliable.
@@ -111,7 +111,8 @@ Distributed reporting system that aggregates structured reports into a central a
 - Real-time dashboard queries
 - Data integrity across hierarchical reporting flows
 
-**Repository:** [Backend](https://github.com/Cellytics/cellytics_backend)
+**Link:** [Live link](https://cellytics-backend.vercel.app/)
+
 
 ---
 
