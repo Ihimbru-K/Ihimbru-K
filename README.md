@@ -493,4 +493,4 @@ infra      →   Docker · Render · Neon · JWT · Stream SDK
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer&text=let%27s%20build%20something%20that%20matters&fontSize=16&fontColor=666666&fontAlignY=65" width="100%"/>
-</div> --> --> -->
+</div> --> 
