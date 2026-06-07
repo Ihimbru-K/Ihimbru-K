@@ -1,4 +1,112 @@
+```markdown
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Ihimbru%20Kanyimi&fontSize=48&fontColor=ffffff&fontAlignY=52&desc=systems%20engineer%20%C2%B7%20infrastructure%20architect&descSize=13&descAlignY=72&descColor=888888" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihimbru-kanyimi-46a973227)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kanihims25@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ihimbru-K)
+
+</div>
+
+<br/>
+
+> I engineer operational systems end-to-end. The hard problems are in the architecture, not the UI.
+
+<br/>
+
+## systems & infrastructure
+
+| domain | focus |
+|--------|-------|
+| **offline-first architectures** | conflict resolution, eventual consistency, deterministic sync |
+| **institutional-scale systems** | role-based access control, audit trails, compliance constraints |
+| **low-bandwidth optimization** | smart caching, progressive data loading, graceful degradation |
+| **realtime coordination** | event-driven backends, websocket infrastructure, presence tracking |
+| **hardware integration** | biometric systems, scanner drivers, device constraints |
+| **payment infrastructure** | reconciliation, multi-provider SDKs, transaction integrity |
+
+<br/>
+
+## projects
+
+### Authentikate · Biometric Institutional Infrastructure
+**Status:** Live pilot · University of Bamenda (30k+ students)
+
+Offline-first biometric attendance system for exam environments. Flutter clients cache locally and sync to a FastAPI backend on reconnect. ZK-Teco Live 20R handles fingerprint capture at the hardware layer. JWT-secured RBAC enforced across admin, proctor, and student roles.
+
+[Frontend](https://github.com/Ihimbru-K/Authentikate_shipping_frontend) · [Backend](https://github.com/Ihimbru-K/Authentikate_shipping_backend)
+
+<br/>
+
+### SheyDoc · Telemedicine Infrastructure for Low-Connectivity Regions
+**Status:** In development · Cameroon
+
+Lightweight telemedicine platform built for unstable connectivity. Offline medical records with deferred sync. Bandwidth-aware media handling via Firebase/Appwrite. FCM notifications with SMS fallback where connectivity is unreliable.
+
+[Backend](https://github.com/Sheydocc/sheydoc_backend) · [Frontend](https://github.com/Sheydocc/sheydoc_app)
+
+<br/>
+
+### Propti · Rent & Tenant Management Infrastructure
+**Status:** Community testing
+
+Digital replacement for informal rental workflows. MTN/Orange Mobile Money integration with reconciliation logic for failed transactions. Versioned documents and offline lease signing with multi-tenant PostgreSQL isolation.
+
+[Backend](https://github.com/Propti-app/Propti_backend)
+
+<br/>
+
+### Cellytics · Cell Reporting & Analytics Platform
+**Status:** Production
+
+Distributed reporting pipeline for hierarchical organizations. Event ingestion from distributed sources, time-based aggregation, real-time dashboards.
+
+[Live](https://cellytics-backend.vercel.app/)
+
+<br/>
+
+## technical stack
+
+```
+languages      →   Dart · Python · TypeScript · SQL
+mobile         →   Flutter (Android/iOS)
+backend        →   FastAPI · Spring Boot · Node.js
+data           →   PostgreSQL · Firebase · Appwrite · Neon
+infrastructure →   Docker · Render · GitHub Actions
+integrations   →   ZK-Teco · MTN · Orange · Stripe · FCM · SMS
+```
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ihimbru-K&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7B77F5&icon_color=7B77F5" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihimbru-K&layout=compact&theme=tokyonight&hide_border=true&title_color=7B77F5" height="165"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer&text=systems%20engineer%20%2F%20infrastructure%20architect&fontSize=16&fontColor=666666&fontAlignY=65" width="100%"/>
+</div>
+```
+
+
+
+
+
+
+
+
+
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Ihimbru%20Kanyimi&fontSize=48&fontColor=ffffff&fontAlignY=52&desc=systems%20engineer%20%C2%B7%20infrastructure%20architect%20%C2%B7%%C2%B7%20%2C%20&descSize=13&descAlignY=72&descColor=888888" width="100%"/>
 </div>
 
@@ -490,4 +598,4 @@ infra      →   Docker · Render · Neon · JWT · Stream SDK
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer&text=let%27s%20build%20something%20that%20matters&fontSize=16&fontColor=666666&fontAlignY=65" width="100%"/>
-</div> --> 
+</div> -->  -->
