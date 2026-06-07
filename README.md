@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Ihimbru%20Kanyimi&fontSize=48&fontColor=ffffff&fontAlignY=52&desc=systems%20engineer%20%C2%B7%20infrastructure%20architect%20%C2%B7%20offline-first%20%C2%B7%20bamenda%2C%20cameroon&descSize=13&descAlignY=72&descColor=888888" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Ihimbru%20Kanyimi&fontSize=48&fontColor=ffffff&fontAlignY=52&desc=systems%20engineer%20%C2%B7%20infrastructure%20architect%20%C2%B7%20%20%C2%B7%20%2C%20&descSize=13&descAlignY=72&descColor=888888" width="100%"/>
 </div>
 
 <br/>
@@ -8,8 +8,7 @@
 
 ```
 I engineer operational systems end-to-end.
-Architecture decisions matter more than features.
-Offline-first. Low-bandwidth aware. Deployed at scale.
+
 ```
 
 </div>
@@ -28,7 +27,7 @@ Offline-first. Low-bandwidth aware. Deployed at scale.
 
 ## engineering approach
 
-> I architect systems, not features. Full ownership: database schema, API design, offline synchronization, deployment infrastructure. Focus on institutional-scale constraints, low-bandwidth optimization, and operational reliability. The hard problems are in the architecture, not the UI.
+> I architect systems, Full ownership: The hard problems are in the architecture, not the UI.
 
 ---
 
@@ -121,14 +120,14 @@ Distributed reporting system that aggregates structured reports into a central a
 ```
 languages      →   Dart · Python · TypeScript · SQL
 Frontend       →   NextJs · Tailwind CSS · TypeScript ·
-mobile         →   Flutter (offline-first, low-bandwidth optimization)
+mobile         →   Flutter (Android/iOS)
 backend        →   FastAPI (async Python) · Spring Boot · Node.js
 data           →   PostgreSQL (schema design, migrations)
-                   Firebase/Appwrite (media, realtime)
+                   Firebase/Appwrite (media, realtime), Neon
 infrastructure →   Docker · Render · Neon · GitHub Actions
 realtime       →   WebSockets · Firebase Realtime · Appwrite
 integrations   →   Biometric scanners (ZK-Teco)
-                   Payment APIs (MTN, Orange)
+                   Payment APIs (MTN, Orange, Stripe)
                    FCM · SMS fallbacks
 ```
 
@@ -136,17 +135,15 @@ integrations   →   Biometric scanners (ZK-Teco)
 
 ## what matters to me
 
-Building systems for markets that are **underdeveloped** (limited connectivity), **underserved** (no existing infrastructure), and **underestimated** (dismissed as "too hard"). This requires real engineering:
-
 - Architecture that survives low-bandwidth reality
 - Database design that handles institutional complexity
 - Deployment thinking from day one
 - Understanding hardware & device constraints
 - Operations-first mentality
 
-Not: pixel perfection, feature lists, marketing language.
 
----
+
+
 
 <div align="center">
 
