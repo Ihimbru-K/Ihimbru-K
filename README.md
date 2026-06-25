@@ -29,7 +29,7 @@
 | Mental health access gap ; patients can't reach certified professionals | [SheyDoc](https://github.com/Sheydocc/sheydoc_app) · telemedicine platform with async consultations | Targeting underserved regions, designed for unstable connectivity |
 | Exam fraud and manual attendance ; 30,000+ students, no reliable infra | [Authentikate](https://github.com/Ihimbru-K/Authentikate_shipping_frontend) · biometric attendance system | Live pilot · University of Bamenda |
 | Informal rental workflows ; no contracts, no audit trail, disputes with no record | [Propti](https://github.com/Propti-app/Propti_backend) · digital lease and payment infrastructure | Community testing · Mobile Money integrated |
-| Distributed org reporting ; fragmented data, no visibility across reporting levels | [Cellytics](https://cellytics-backend.vercel.app/) · analytics pipeline for hierarchical orgs | Production · multi-country deployment across East & Central Africa |
+| Distributed org reporting ; fragmented data, no visibility across reporting levels | [Cellytics](https://cellytics-backend.vercel.app/) · analytics pipeline for hierarchical orgs | Production · 6 zones · Cameroon, Kenya, Tanzania, Gabon, CAR & more across East & Central Africa |
 
 ---
 
