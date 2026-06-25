@@ -16,13 +16,13 @@
 
 <div align="center">
 
-*I don't build apps. I design systems that handle the hard parts offline-first sync, payment reconciliation, biometric hardware, low-bandwidth constraints in environments where failure has real consequences.*
+*I build systems that solve problems at scale*
 
 </div>
 
 ---
 
-## what I work on
+## what I'm working on
 
 | problem | system | scale |
 |---------|--------|-------|
