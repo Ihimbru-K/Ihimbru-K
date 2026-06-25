@@ -12,16 +12,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-*I build systems that solve problems at scale*
-
-</div>
-
----
-
 ## what I'm working on
 
 | problem | system | scale |
