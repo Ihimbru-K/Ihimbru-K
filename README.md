@@ -16,7 +16,7 @@
 
 <div align="center">
 
-*I don't build apps. I design systems that handle the hard parts — offline-first sync, payment reconciliation, biometric hardware, low-bandwidth constraints — in environments where failure has real consequences.*
+*I don't build apps. I design systems that handle the hard parts offline-first sync, payment reconciliation, biometric hardware, low-bandwidth constraints in environments where failure has real consequences.*
 
 </div>
 
@@ -36,11 +36,11 @@
 ## how I think about systems
 
 ```
-Offline before online     — data lives on the device. sync is a feature, not an assumption.
-Failure is the baseline   — unreliable networks, cold APIs, and hardware edge cases are requirements, not exceptions.
-Reconciliation > retry    — payments, attendance, reports: conflicts need resolution logic, not blind retries.
-Schema is architecture    — database design decisions outlast framework choices.
-Deploy from day one       — production constraints shape the right architecture. I design for where it runs.
+Offline before online      data lives on the device. sync is a feature, not an assumption.
+Failure is the baseline    unreliable networks, cold APIs, and hardware edge cases are requirements, not exceptions.
+Reconciliation > retry     payments, attendance, reports: conflicts need resolution logic, not blind retries.
+Schema is architecture     database design decisions outlast framework choices.
+Deploy from day one        production constraints shape the right architecture. I design for where it runs.
 ```
 
 ---
